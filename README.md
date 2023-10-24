@@ -39,6 +39,6 @@ BSidesWifiScanner is a specialized Wi-Fi scanner designed and commissioned for t
 After flashing, the device will start scanning for Wi-Fi networks and display a graphical representation of the signal strength for individual networks. Use the buttons to navigate through different pages.
 
 ![BSidesSplashScreen](https://github.com/circuitboardmedics/BSidesWifiScanner/assets/5779011/af4b3a4e-02b9-40b3-b173-609eae94fc86)
-![BSidesSelect](https://github.com/circuitboardmedics/BSidesWifiScanner/assets/5779011/e0134b6d-a24f-4a62-9546-30c748888c46)
+![273598468-e0134b6d-a24f-4a62-9546-30c748888c46](https://github.com/bill202310/BSidesWifiScanner/assets/148511781/9776efd1-360b-4c67-9da0-cde944191e65)
 ![BSidesGraph](https://github.com/circuitboardmedics/BSidesWifiScanner/assets/5779011/b9c0b4c6-5811-4503-af9f-f0507ae3750a)
 
